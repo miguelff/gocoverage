@@ -1,3 +1,2 @@
 mode: set
-coveragetest/services/api/actions/action.go:3.33,5.2 1 1
-coveragetest/services/api/actions/transform.go:5.33,7.2 1 1
+coveragetest/services/api/actions/action.go:5.33,7.2 1 1

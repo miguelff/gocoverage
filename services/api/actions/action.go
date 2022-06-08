@@ -1,5 +1,7 @@
 package actions
 
+import "coveragetest/pkg/transformer"
+
 func transform(s string) string {
-    return Transform(s)
+    return transformer.Transform(s)
 }
